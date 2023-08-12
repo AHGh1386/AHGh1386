@@ -1,6 +1,4 @@
-👋 Hi, I’m Abolfazl Haghparasti 
-
-⭐ I have learned C++ , Python
+# Hi there 👋 I'm Abolfazl Haghparasti 
 
 🌱 I’m currently learning website full stack 
 
