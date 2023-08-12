@@ -9,7 +9,7 @@
 <p align="center">
 <br><img width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"><br><br>
 
-🌱 I’m currently learning website full stack 
+<h3>🌱 I’m currently learning website full stack </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
