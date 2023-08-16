@@ -37,6 +37,9 @@
 ## 📫How to reach me:
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype"/> <img src = "https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHGh1386&langs_count=8)](https://github.com/AHGh1386/github-readme-stats)
+
 <a target="blank" href="https://profile-counter.glitch.me/devgruu/count.svg">
             <p align="center">💖 Visited Counts 💖<br><br> <img
                     src="https://profile-counter.glitch.me/AHGh1386/count.svg" />
