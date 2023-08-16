@@ -6,10 +6,14 @@
 
 # I'm Abolfazl Haghparasti
 
-<p align = "center"
-   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)](https://AHGh1386.github.io/)
-   
+<div align="center">
+	<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
+  
+</div>
+
+<p align="center">
+  <a href="https://github.com/AHGh1386"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&lines=Welcome+to+my+Github+Profile;Code+%3D+Love">
+  </a>
 </p>
 <p align="center">
   <a href="https://github.com/AHGh1386?tab=repositories&sort=stargazers">
