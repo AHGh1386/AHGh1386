@@ -58,7 +58,7 @@ You have stayed on my page for:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHGh1386&show_icons=true&theme=highcontrast)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHGh1386&langs_count=8)](https://github.com/AHGh1386/github-readme-stats)
+
 
 
 <a target="blank" href="https://profile-counter.glitch.me/devgruu/count.svg">
