@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AHGh1386" alt="AHGH1386" /> </p>
-
 ![Python Programmer / C++ programmer / Web full stack developer](https://github.com/AHGh1386/AHGh1386/blob/main/Github%20banner.jpg)
 
 <div style="display: flex; justify-content: center;">
