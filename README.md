@@ -1,6 +1,10 @@
 ![Python Programmer / C++ programmer / Web full stack developer](https://github.com/AHGh1386/AHGh1386/blob/main/Github%20banner.jpg)
 
-# Hi there 👋 I'm Abolfazl Haghparasti
+<div style="display: flex; justify-content: center;">
+        <img align="center" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif" />
+    </div>
+
+# I'm Abolfazl Haghparasti
 
 <p align = "center"
    
