@@ -55,6 +55,10 @@ You have stayed on my page for:
 ## 📫How to reach me:
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype"/> <img src = "https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
+<img align="right" height="250" width="375" alt="" src="https://github.com/AHGh1386/AHGh1386/blob/main/coder.gif" />
+
+<br><br><br><br>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHGh1386&show_icons=true&theme=highcontrast) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AHGh1386&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
