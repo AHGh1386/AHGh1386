@@ -57,8 +57,6 @@ You have stayed on my page for:
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/AHGh1386/AHGh1386/blob/main/coder.gif" />
 
-<br><br><br><br>
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHGh1386&show_icons=true&theme=highcontrast) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AHGh1386&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
