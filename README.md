@@ -54,6 +54,7 @@ You have stayed on my page for:
 
 ## 📫How to reach me:
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype"/> <img src = "https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/>
+![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Abolfazl%20Haghparasti/)
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/AHGh1386/AHGh1386/blob/main/coder.gif" />
 
