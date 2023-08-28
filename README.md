@@ -48,7 +48,7 @@ You have stayed on my page for:
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp"><img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp"><img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="110"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="110">
 
 
-## IDEs/Editors
+## Editors
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br>
 <img src ="https://comparecamp.com/media/uploads/2019/02/Code-Blocks-220x90.jpg"/>
