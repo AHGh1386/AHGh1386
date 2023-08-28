@@ -6,10 +6,12 @@
 
 # I'm Abolfazl Haghparasti
 
-<div align="center">
+<div align="left">
 	<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
   
 </div>
+<div align="center">
+        <img src="https://github.com/AHGh1386/AHGh1386/blob/main/AH.gif" width="100">
 
 <p align="center">
   <a href="https://github.com/AHGh1386"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&lines=Welcome+to+my+Github+Profile;Code+%3D+Love">
