@@ -6,10 +6,6 @@
 
 # I'm Abolfazl Haghparasti
 
-<div align="left">
-	<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
-  
-</div>
 <div align="center">
         <img src="https://github.com/AHGh1386/AHGh1386/blob/main/AH.gif" width="100">
 
