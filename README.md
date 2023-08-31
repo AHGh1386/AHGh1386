@@ -61,7 +61,6 @@ If you wanna connect with me in Linkedin, just click this link👇👇
 <a href= "https://www.linkedin.com/in/abolfazl-haghparasti-17a318288">Connect-AHGh-Linkedin</a>
 
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHGh1386&show_icons=true&theme=highcontrast) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHGh1386&langs_count=8)](https://github.com/AHGh1386/github-readme-stats)
 
 
