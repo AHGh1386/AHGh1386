@@ -31,7 +31,7 @@ You have stayed on my page for:
 <p align="center">
 <br><img width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"><br><br>
 
-🌱 I’m currently learning website full stack
+🌱 I’m currently learning website full stack.
 <img align="center" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <br>
 
