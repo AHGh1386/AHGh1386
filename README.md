@@ -49,6 +49,7 @@ You have stayed on my page for:
 
 ## Editors
 <img width="108" height="108" src="https://img.icons8.com/color/48/code-blocks.png" alt="code-blocks"/>
+<img width="108" height="108" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 
 ## 📫How to reach me:
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype"/> <img src = "https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/>
