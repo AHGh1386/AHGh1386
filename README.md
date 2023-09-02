@@ -61,6 +61,7 @@ If you wanna connect with me in Linkedin, just click this link👇👇
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHGh1386&show_icons=true&theme=highcontrast) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHGh1386&langs_count=8)](https://github.com/AHGh1386/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AHGh1386&theme=highcontrast" alt="AH" /></p>
 
 
 
