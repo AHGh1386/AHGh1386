@@ -47,7 +47,7 @@ You have stayed on my page for:
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp"><img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp"><img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="110"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="110">
 
 
-## Editors
+## IDEs/Editors
 <img width="108" height="108" src="https://img.icons8.com/color/48/code-blocks.png" alt="code-blocks"/>
 <img width="108" height="108" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 
