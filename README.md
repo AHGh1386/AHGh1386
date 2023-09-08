@@ -48,7 +48,7 @@ You have stayed on my page for:
 
 
 ## IDEs/Editors
-<img width="108" height="108" src="https://img.icons8.com/color/48/code-blocks.png" alt="code-blocks"/>
+<img width="108" height="108" src="https://img.icons8.com/color/108/code-blocks.png" alt="code-blocks"/>
 <img width="108" height="108" src="https://img.icons8.com/color/108/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 <img width="108" height="108" src="https://img.icons8.com/color/108/pycharm--v2.png" alt="pycharm--v2"/>
 
