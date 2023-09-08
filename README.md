@@ -6,8 +6,7 @@
 
 # I'm Abolfazl Haghparasti
 
-<div align="center">
-        <img src="https://github.com/AHGh1386/AHGh1386/blob/main/AH.gif" width="100">
+![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)
 
 <p align="center">
   <a href="https://github.com/AHGh1386"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&lines=Welcome+to+my+Github+Profile;Code+%3D+Love">
