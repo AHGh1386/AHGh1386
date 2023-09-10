@@ -44,6 +44,7 @@ You have stayed on my page for:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp"><img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp"><img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="110"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="110">
+<img src="https://skillicons.dev/icons?i=sqlite" width="100" height="100" alt="SQLite" />
 
 
 ## IDEs/Editors
