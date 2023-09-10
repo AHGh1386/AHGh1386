@@ -110,7 +110,11 @@ If you wanna connect with me in Linkedin, just click this link👇👇
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AHGh1386&theme=highcontrast" alt="AH" /></p>
 
 
+## More about me:
 
+I have skill certificate of Python, C++, HTML & CSS from state technical and vocational training organization.
+ 
+Interested in software engineering.
 
 
 <a target="blank" href="https://profile-counter.glitch.me/devgruu/count.svg">
