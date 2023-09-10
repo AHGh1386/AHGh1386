@@ -116,6 +116,9 @@ I have skill certificate of Python, C++, HTML & CSS from state technical and voc
  
 Interested in software engineering.
 
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
 <a target="blank" href="https://profile-counter.glitch.me/devgruu/count.svg">
             <p align="center">💖 Visited Counts 💖<br><br> <img
