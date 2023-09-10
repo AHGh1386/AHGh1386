@@ -44,13 +44,15 @@ You have stayed on my page for:
     </td>
     <td>
             <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-    </td>
+    <br>HTML
+    </td> 
     <td>
             <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
+    <br>CSS
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
-      <br>Javascript
+      <img src="https://img.icons8.com/ios-filled/50/markdown.png" alt="icon" width="55" height="55" />
+      <br>Markdown
     </td>
 
   </tr>
@@ -69,6 +71,7 @@ You have stayed on my page for:
     </td>
     <td>
             <img src="https://techstack-generator.vercel.app/cpp-icon.svg">
+    <br>C++
     </td>
   </tr>
 </table>
