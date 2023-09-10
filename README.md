@@ -42,6 +42,12 @@ You have stayed on my page for:
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
       <br>Django
     </td>
+    <td>
+            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
+    </td>
+    <td>
+            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
+    </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
       <br>Javascript
@@ -61,6 +67,9 @@ You have stayed on my page for:
       <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
       <br>SQLite
     </td>
+    <td>
+            <img src="https://techstack-generator.vercel.app/cpp-icon.svg">
+    </td>
   </tr>
 </table>
 
@@ -72,9 +81,6 @@ You have stayed on my page for:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp"><img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp"><img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="110"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="110">
-<img src="https://skillicons.dev/icons?i=sqlite" width="100" height="100" alt="SQLite" />
 
 
 ## IDEs/Editors
