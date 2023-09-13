@@ -55,7 +55,7 @@ You have stayed on my page for:
       <br>Markdown
     </td>
     <td align="center" width="90">
-      <img src="https://logowik.com/content/uploads/images/pascal-pasc2318.jpg" alt="icon" width="55" height="55" />
+      <img src="https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/pascal/9.6.0/1676423977534/Microsoft.VisualStudio.Services.Icons.Default" alt="icon" width="55" height="55" />
       <br>Pascal
     </td>
 
