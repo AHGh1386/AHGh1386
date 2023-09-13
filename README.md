@@ -54,6 +54,10 @@ You have stayed on my page for:
       <img src="https://img.icons8.com/ios-filled/50/markdown.png" alt="icon" width="55" height="55" />
       <br>Markdown
     </td>
+    <td align="center" width="90">
+      <img src="https://logowik.com/content/uploads/images/pascal-pasc2318.jpg" alt="icon" width="55" height="55" />
+      <br>Pascal
+    </td>
 
   </tr>
   <tr>
