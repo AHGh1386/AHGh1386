@@ -126,6 +126,9 @@ I'm not professional in it.
 I'm just a begginer in pascal.
 Anyway it's a fun language 🙂
 
+I only go for Pascal sometimes.
+I mostly focus on Python and Django.
+
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
