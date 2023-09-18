@@ -105,9 +105,9 @@ You have stayed on my page for:
 
 
 
-If you wanna connect with me in Linkedin, just click this link👇👇
+If you wanna connect with me in Telegram, just click this link👇👇
 
-<a href= "https://www.linkedin.com/in/abolfazl-haghparasti-17a318288">Connect-AHGh-Linkedin</a>
+<a href="https://t.me/AHGhAHAHAHAHAHGh">Connect-AHGh-Telegram</a>
 
 
 ![AH's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHGh1386&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHGh1386&theme=tokyonight)
