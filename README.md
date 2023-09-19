@@ -89,6 +89,9 @@ You have stayed on my page for:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+<p align="left">
+    <img height="140" width="90" src="https://github.com/AHGh1386/AHGh1386/blob/main/my%20certificates.jpg">
+</p>
 
 ## IDEs/Editors
 <img width="108" height="108" src="https://img.icons8.com/color/108/code-blocks.png" alt="code-blocks"/>
