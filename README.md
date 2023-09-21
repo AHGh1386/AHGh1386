@@ -114,7 +114,12 @@ If you wanna connect with me in Telegram, just click this link👇👇
 
 ## Operating system:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+        
 ![AH's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHGh1386&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHGh1386&theme=tokyonight)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AHGh1386&theme=highcontrast" alt="AH" /></p>
 
