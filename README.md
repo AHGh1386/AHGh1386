@@ -112,6 +112,8 @@ If you wanna connect with me in Telegram, just click this link👇👇
 
 <a href="https://t.me/AHGhAHAHAHAHAHGh">Connect-with-AH-in-Telegram</a>
 
+## Operating system:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![AH's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHGh1386&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHGh1386&theme=tokyonight)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AHGh1386&theme=highcontrast" alt="AH" /></p>
@@ -132,7 +134,6 @@ Interested in software engineering.
             <p align="center">💖 Visited Counts 💖<br><br> <img
                     src="https://profile-counter.glitch.me/AHGh1386/count.svg" />
         </a>
-
 
 
 
