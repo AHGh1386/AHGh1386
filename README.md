@@ -18,6 +18,16 @@
 <a href="https://github.com/AHGh1386?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/AHGh1386?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
+
+## 💫about me:
+
+I have skill certificate of Python, C++, HTML & CSS from state technical and vocational training organization.
+Except my certificates from state technical and vocational training organization , I have some other certificates from online courses.
+ex: I have 4 python certificates from online courses.
+Always learnin' new things.
+ 
+Interested in software engineering.
+
 <div align="center">
   <h3 align="center">
 You have stayed on my page for:
@@ -119,16 +129,6 @@ If you wanna connect with me in Telegram, just click this link👇👇
         
 ![AH's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHGh1386&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHGh1386&theme=tokyonight)
 ![AH](https://github-readme-streak-stats.herokuapp.com/?user=AHGh1386&theme=tokyonight)
-
-
-## More about me:
-
-I have skill certificate of Python, C++, HTML & CSS from state technical and vocational training organization.
-Except my certificates from state technical and vocational training organization , I have some other certificates from online courses.
-ex: I have 4 python certificates from online courses.
-Always learnin' new things.
- 
-Interested in software engineering.
 
 
 <p  align="center">
