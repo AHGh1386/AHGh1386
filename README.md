@@ -118,7 +118,7 @@ If you wanna connect with me in Telegram, just click this link👇👇
 <br>
         
 ![AH's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHGh1386&show_icons=true&theme=react&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHGh1386&theme=react&hide_border=true)
-![AH](https://github-readme-streak-stats.herokuapp.com/?user=AHGh1386&theme=react&hide_border=true)<br/>
+![AH](https://github-readme-streak-stats.herokuapp.com/?user=AHGh1386&theme=tokyonight)
 
 
 ## More about me:
