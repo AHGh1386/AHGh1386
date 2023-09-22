@@ -124,6 +124,9 @@ If you wanna connect with me in Telegram, just click this link👇👇
 ## More about me:
 
 I have skill certificate of Python, C++, HTML & CSS from state technical and vocational training organization.
+Except my certificates from state technical and vocational training organization , I have some other certificates from online courses.
+ex: I have 4 python certificates from online courses.
+Always learnin' new things.
  
 Interested in software engineering.
 
