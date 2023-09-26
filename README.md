@@ -25,7 +25,8 @@ I have skill certificate of Python, C++, HTML & CSS from state technical and voc
 Except my certificates from state technical and vocational training organization , I have some other certificates from online courses.
 ex: I have 4 python certificates from online courses.
 Always learnin' new things.
- 
+Projects are in progress:)
+
 Interested in software engineering.
 
 <p  align="center">
