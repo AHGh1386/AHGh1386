@@ -1,4 +1,4 @@
-![Python Programmer / C++ programmer / Web full stack developer](https://github.com/AHGh1386/AHGh1386/blob/main/banner.jpg)
+![Python Programmer / C++ Programmer / Web full stack developer](https://github.com/AHGh1386/AHGh1386/blob/main/banner.jpg)
 
 <div style="display: flex; justify-content: center;">
         <img align="center" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif" />
