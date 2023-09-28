@@ -19,7 +19,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/AHGh1386?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-## 💫about me:
+## 💫About me:
 
 I have skill certificate of Python, C++, HTML & CSS from state technical and vocational training organization.
 Except my certificates from state technical and vocational training organization , I have some other certificates from online courses.
