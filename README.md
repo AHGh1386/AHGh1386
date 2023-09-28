@@ -119,7 +119,8 @@ You have stayed on my page for:
 
 
 
-If you wanna connect with me in Telegram, just click this link👇👇
+If you wanna connect with me , It's better to connect with me in Telegram.
+Click this link to connect👇👇
 
 <a href="https://t.me/AHGhAHAHAHAHAHGh">Connect-with-AH-in-Telegram</a>
 
