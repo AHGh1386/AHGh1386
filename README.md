@@ -9,8 +9,7 @@
 ![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)
 
 <p align="center">
-  <a href="https://github.com/AHGh1386"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&lines=Welcome+to+my+Github+Profile;Code+%3D+Love">
-  </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=30&pause=1000&color=0EF999&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+profile;Code+=+love+" alt="Typing SVG" /> </a>
 </p>
 <p align="center">
   <a href="https://github.com/AHGh1386?tab=repositories&sort=stargazers">
