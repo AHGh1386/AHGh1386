@@ -100,9 +100,15 @@ You have stayed on my page for:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ## Online course certificates 
-<p align="left">
+<table>
+        <td>
     <img height="140" width="90" src="https://github.com/AHGh1386/AHGh1386/blob/main/my%20certificates.jpg">
-</p>
+        </td>
+        <td>
+        <img height="70" width="90" src="https://github.com/AHGh1386/AHGh1386/blob/main/1697720493304.jpg">
+        </td>
+</table>
+
 
 ## IDEs/Editors
 <img width="108" height="108" src="https://img.icons8.com/color/108/code-blocks.png" alt="code-blocks"/>
