@@ -40,20 +40,14 @@ You have stayed on my page for:
   <p align="center">
 <a href="https://github.com/AHGh1386/animated-svg-clock" title="Animated SVG clock"><img src="https://github.com/tomchen/animated-svg-clock/raw/master/clock.svg" alt="Clock" width="200px" height="200px"></a>
 </p>
-<table align="center">
-        <tr>
-                <td>
-<p align="right">
-<img width="100" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"></p>
-                </td>
-                <td>
-<img align="left" alt="Coding" width="100" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-                </td>
-        </tr>
-</table>
+
+<p align="center">
+<img width="1300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"></p>
+                
 
 🌱 I’m currently learning website full stack.
 
+<img align="left" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Skills** :
 
