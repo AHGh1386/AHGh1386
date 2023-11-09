@@ -91,6 +91,10 @@ You have stayed on my page for:
             <img src="https://techstack-generator.vercel.app/cpp-icon.svg">
     <br>C++
     </td>
+          <td>
+          <img width="64" height="64" src="https://img.icons8.com/arcade/64/javascript.png" alt="javascript"/>
+                  JavaScript
+          </td>
   </tr>
 </table>
 
