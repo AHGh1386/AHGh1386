@@ -66,7 +66,7 @@ You have stayed on my page for:
     <br>CSS
     </td>
     <td>
-            <img align="center" width=120 height=90 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">Bootsrap
+            <img align="center" width=120 height=90 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">Bootstrap
     </td>
     <td align="center" width="90">
       <img src="https://img.icons8.com/ios-filled/50/markdown.png" alt="icon" width="55" height="55" />
