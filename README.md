@@ -45,7 +45,7 @@ You have stayed on my page for:
 <img width="1300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"></p>
                 
 
-🌱 I’m currently learning website full stack.
+🌱 I’m currently learning ML & Deep learning.
 
 <img align="left" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
